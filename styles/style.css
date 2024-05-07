@@ -304,6 +304,9 @@
 }
 
 .dialog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   border: 2px solid var(--text-color);
   padding: 30px;
   color: var(--text-color);
@@ -313,12 +316,6 @@
   text-transform: uppercase;
   background-color: var(--background-color);
   inline-size: clamp(21.063rem, 20.71rem + 1.5vw, 22.063rem);
-}
-
-.dialog {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .dialog__menu {
