@@ -208,7 +208,7 @@
 
 .text {
   font-size: 18px;
-  font-variation-settings: var(--text-fw);
+  font-variation-settings: var(--text-fw), ;
   line-height: 21px;
 }
 
