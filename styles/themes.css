@@ -9,9 +9,9 @@
   --text-fw: 'wght' 400;
   --background-color: #fff;
   --text-color: #000;
-  --bg-gradient:  #d3d3d3;
-  --bg-gradient-one: #e7e7e7;
-  --bg-gradient-two:  #1a1a1a;
+  --bg-gradient: #d3d3d3;
+  --bg-gradient-top: #e7e7e7;
+  --bg-gradient-bottom: #1a1a1a;
   --text-shadow: #fff;
   --hover-color: #fff;
   --heart-contor: #000;
@@ -23,9 +23,9 @@
   --text-fw: 'wght' 465;
   --background-color: #000;
   --text-color: #00CC14;
-  --bg-gradient:  #000;
-  --bg-gradient-one: #007f0c;
-  --bg-gradient-two:  #004306;
+  --bg-gradient: #000;
+  --bg-gradient-top: #007f0c;
+  --bg-gradient-bottom: #004306;
   --text-shadow: #000;
   --hover-color: #00CC14;
   --heart-contor: #00CC14;
@@ -38,9 +38,9 @@
     --text-fw: 'wght' 465;
     --background-color: #000;
     --text-color: #00CC14;
-    --bg-gradient:  #000;
-    --bg-gradient-one: #007f0c;
-    --bg-gradient-two:  #004306;
+    --bg-gradient: #000;
+    --bg-gradient-top: #007f0c;
+    --bg-gradient-bottom: #004306;
     --text-shadow: #000;
     --hover-color: #00CC14;
     --heart-contor: #00CC14;
