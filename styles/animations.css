@@ -42,8 +42,6 @@
   }
 }
 
-/* animation heart */
-
 .like-icon:hover .main-body {
   fill: var(--heart-contor);
   transition: fill 0.3s linear 0.05s;
